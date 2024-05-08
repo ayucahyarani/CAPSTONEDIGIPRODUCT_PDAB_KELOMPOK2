@@ -8,4 +8,4 @@
 ## Demo App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 ## Slide Deck
-[![Canva](https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg)]
+![Canva](https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg)
